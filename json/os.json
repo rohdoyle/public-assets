@@ -53,6 +53,15 @@
           "videoLink": "https://example.com/v2rayng-video"
         },
         {
+          "name": "Hiddfy",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/hiddify/hiddify.com/72744a170e954c3d212d445fe2cbd47a23faca12/docs/assets/hiddify-app-logo.svg",
+          "description": "A cross-platform GUI client for V2Ray.",
+          "faDescription": "Hiddfyیک کلاینت خودکار مالتی‌پلتفرم.",
+          "downloadLink": "https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
+          "videoLink": "https://example.com/nekoray-video"
+        },
+        {
           "name": "V2box",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2box.png",
@@ -79,12 +88,12 @@
           "videoLink": "https://example.com/v2rayn-video"
         },
         {
-          "name": "Nekoray",
+          "name": "Hiddfy",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
+          "logo": "https://raw.githubusercontent.com/hiddify/hiddify.com/72744a170e954c3d212d445fe2cbd47a23faca12/docs/assets/hiddify-app-logo.svg",
           "description": "A cross-platform GUI client for V2Ray.",
-          "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
+          "faDescription": "Hiddfyیک کلاینت خودکار مالتی‌پلتفرم.",
+          "downloadLink": "https://github.com/hiddify/hiddify-app/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.exe",
           "videoLink": "https://example.com/nekoray-video"
         }
       ]
