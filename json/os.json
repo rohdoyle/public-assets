@@ -79,13 +79,14 @@
           "videoLink": "https://example.com/v2rayn-video"
         },
         {
-          "name": "Nekoray",
+          "name": "HiddifyNG",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/nekoray.jpeg",
-          "description": "A cross-platform GUI client for V2Ray.",
-          "faDescription": "NekoRay یک کلاینت GUI چندسکویی برای V2Ray است.",
-          "downloadLink": "https://github.com/MatsuriDayo/nekoray/releases/latest",
-          "videoLink": "https://example.com/nekoray-video"
+          "logo": "https://raw.githubusercontent.com/rohdoyle/public-assets/refs/heads/main/icons/hiddify.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "Hiddify یک کلاینت V2Ray چندسکویی است.",
+          "configLink": "Hiddify://install-sub?url={url}&name=SUBnew",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Windows-Setup-x64.Msix",
+          "videoLink": "https://example.com/v2box-video"
         }
       ]
     },
